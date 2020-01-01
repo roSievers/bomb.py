@@ -1,4 +1,4 @@
-# Bomb.by
+# Bomb.py
 
 While playing "Boom", by bomb broke. So I made my own.
 
